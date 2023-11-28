@@ -20,7 +20,7 @@ export default function AboutMe() {
                         Computational Modeling.
                         <br></br>
                         <br></br>
-                        I'm a Backend Developer in{' '}
+                        I'm a Senior Backend Developer in{' '}
                         <a href="https://ciandt.com/">CI&T</a>, I love
                         technlogy, software architecture and systems design, I
                         also love solving problems and abstracting solutions.
