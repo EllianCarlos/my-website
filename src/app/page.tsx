@@ -1,4 +1,5 @@
 import AboutMe from './about-me'
+import { QuickAboutMe } from './quick-about-me'
 import Nav from './navigation'
 
 export default function Home() {
@@ -8,7 +9,8 @@ export default function Home() {
                 <Nav></Nav>
             </header>
             <main className='min-w-full'>
-                <AboutMe></AboutMe>
+                {/* <AboutMe></AboutMe> */}
+                <QuickAboutMe></QuickAboutMe>
             </main>
         </>
     )
